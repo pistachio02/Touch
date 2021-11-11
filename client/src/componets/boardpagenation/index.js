@@ -1,11 +1,10 @@
-import React from 'react'
-
-function index() {
-    return (
-        <div>
-            
-        </div>
-    )
+export const isNotEmpty = (str) => {
+    if (str && str.trim && str.trim().length > 0) {
+        return true
+    }
+    return false
 }
 
-export default index
+export const isEmpty = (str) => {
+    return !isNotEmpty(str)
+}

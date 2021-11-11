@@ -1,0 +1,154 @@
+.board-background{
+    background-image: url(../image/paintedback.png);
+    height: 100vh;
+    background-size: cover;
+}
+
+.view-wrap{
+    display: inline-block;
+}
+
+.list-title{
+text-decoration: none;
+text-decoration-line: none;
+color: black;
+font-weight: bold;
+font-size: 20px;
+}
+
+.list-content{
+color: black;
+font-size: 13px;
+}
+
+.view-user{
+margin-top: 10px;
+font-size: 20px;
+font-weight: 600;
+}
+
+.view-arrow{
+margin-left: 20px;
+margin-top: 20px;
+font-size: 20px;
+color: black;
+}
+
+.view-someone {
+    display: grid;
+    grid-template-columns: 0.03fr 1fr;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.view-content{
+margin-left: 50px;
+}
+
+/* .view-someone:after {
+content: "";
+display: block;
+width: 60px;
+border-bottom: 1px solid #bcbcbc;
+margin: 20px auto;
+} */
+
+
+.list-container{
+width: 100%;
+margin: 0  auto;
+border-radius: 4px;
+border: solid 1px #DCDCDC;
+margin-top: 20px;
+padding: 20px;
+width: auto;
+margin-left: 25px;
+margin-right: 25px;
+}   
+
+.edit-delete{
+ margin-left: 500px;
+ display: grid;
+ grid-template-columns: 1fr 1fr;
+ margin-top: 10px;
+ font-size: 12px;
+ cursor: pointer;
+}
+
+.comments-form{
+ margin-top: 40px;
+ border: solid 1px #DCDCDC;
+ padding: 20px;
+ border-radius: 5px;
+ margin-left: 25px;
+ margin-bottom: 50px;
+ margin-right: 25px;
+}
+
+.comments-input{
+ width: 560px;
+ border-top: none;
+ border-left: none;
+ border-right: none;
+ border-bottom: none;
+ padding-bottom: 70px;
+ 
+}
+
+.comments-btn-text{
+ display: grid;
+ grid-template-columns: 0.03fr 1fr;
+}
+.comments-input:focus{
+outline: none;
+}
+
+.commtents-btn{
+ margin-left: 10px;
+ height: 100px;
+ cursor: pointer;
+ font-weight: 600;
+}
+
+.reply-text{
+ margin-bottom: 10px;
+ font-size: 15px;
+}
+.comments-list{
+border: solid 1px #DCDCDC;
+border-left: none;
+border-right: none;
+width: 620px;
+margin-left: 25px;
+border-top: none;
+margin-top: 10px;
+margin-bottom: 30px;
+}
+
+.someone2{
+display: grid;
+grid-template-columns: 0.05fr 1fr;
+}
+.comment-content-wrap{
+ display: grid;
+ display: grid;
+ grid-template-columns: 5.6fr 1fr;
+}
+
+.comment-comment{
+ font-size: 12px;
+ color: #4d4c4c;
+}
+
+.comment-date{
+ margin-top: 10px;
+ margin-left: 20px;
+ font-size: 12px;
+}
+
+.comment-delete {
+ font-size: 12px;
+ margin-left: 580px;
+ cursor: pointer;
+}
