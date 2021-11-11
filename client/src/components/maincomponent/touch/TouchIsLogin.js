@@ -12,7 +12,7 @@ function TouchIsLogin() {
             <div>
             <Link to="/login" ><button className="islogin_btn hover">로그인</button></Link>
             
-            <Link to="/heal/moveimg"><button className="islogin_btn hover">취소</button></Link>
+            <Link to="/heal"><button className="islogin_btn hover">취소</button></Link>
 
             </div>
             </div>

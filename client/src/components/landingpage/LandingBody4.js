@@ -1,13 +1,13 @@
 import React from 'react'
 import './LandingBody4.css'
-import example from '../../image/example.gif'
+
 
 function LandingBody4() {
     return (
 
             <div className = 'background4'>
             <div className = 'body4-img-text-wrap'>
-                 <img src = {example} alt  = '' className = 'body4-img'/>
+                 <img src = '' alt  = '' className = 'body4-img'/>
                 <div className = 'body4-text-wrap'>
                     <div className = 'body4-start'>#START AGORA</div>
                     <div className = 'body4-text-h1'>아고라에서 익명의 사람들과 <br/>고민을 나누어 보세요</div>

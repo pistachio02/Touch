@@ -1,7 +1,6 @@
 import React from 'react'
-import './App.css';
 import {useState, useEffect} from 'react';
-import {Route, Switch, useHistory} from 'react-router-dom'
+import {Route, Switch, useHistory} from 'react-router-dom';
 import LandingPage from './pages/LandingPage';
 import LoginPage from './pages/LoginPage'
 import SignUp from './pages/SignUp';
