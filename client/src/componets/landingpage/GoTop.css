@@ -1,0 +1,9 @@
+.go{
+    display: inline-block;
+    position: fixed;
+    z-index: 4;
+    bottom: 2rem;
+    right: 2rem;
+    font-size: 30px;
+    cursor: pointer;
+}
