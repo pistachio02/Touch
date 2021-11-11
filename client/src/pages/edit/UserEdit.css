@@ -1,0 +1,101 @@
+.user_background{
+    background: #536976;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #292E49, #536976);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #292E49, #536976); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    padding:30px;
+}
+.user_container{
+    background-color: rgb(250, 248, 248);
+   
+
+    
+
+    padding:50px;
+    width: 80%;
+    max-width: 100%;
+    margin: auto;
+    box-sizing: border-box;
+   
+}
+
+.user__text{
+    padding: 5px;
+    font-size: 1.2rem;
+    margin-top: 25px;
+}
+
+.form-input {
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+    
+}
+
+
+
+.user_update_btn{
+    width:100px; 
+    height:40px; 
+    line-height:40px; 
+    border:1px #ecf3f7 solid;
+    margin-top:35px; 
+    margin-right:25px; 
+    border-radius: 5px;
+    background-color:#dee5ed; 
+    /* text-align:center; */
+     cursor: pointer; 
+    color:#333; transition:all 0.9s, color 0.3; 
+}
+
+.user_update_btn:hover{
+    color:#fff;
+      box-shadow: 200px 0 0 0 rgba(1, 10, 23, 0.25) inset, 
+      -200px 0 0 0 rgba(1, 1, 12, 0.25) inset;
+}
+
+
+
+.user_form_center{
+    text-align: center;
+    box-sizing: content-box;
+}
+
+.user_delete_btn{
+    width:100px; 
+    height:40px; 
+    line-height:40px; 
+    border:1px #ecf3f7 solid;
+    margin-top:25px; 
+    margin-right:25px; 
+    border-radius: 5px;
+    background-color:#dee5ed; 
+    /* text-align:center; */
+     cursor: pointer; 
+    color:#333; transition:all 0.9s, color 0.3; 
+}
+
+.user_delete_btn:hover{
+    color:#fff;
+      box-shadow: 200px 0 0 0 rgba(198, 18, 5, 0.25) inset, 
+      -200px 0 0 0 rgba(255, 3, 3, 0.803) inset;
+}
+
+
+
+
+
+@media  screen and (max-width: 730px) {
+    .form-input {
+        width: 60%;
+    }
+}
+
+
+.mypage_validation{
+    color: red;
+    margin-top: 30px;
+}
