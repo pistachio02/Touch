@@ -1,0 +1,383 @@
+
+@media screen and (min-width: 1440px) {
+    .background{
+        background-color:  #f3f5f7;
+        height: 100vh;
+    }
+    
+    .painting{
+        display: inline-block;
+        position: relative;
+        margin-top: 180px;
+        margin-left: 390px;
+        z-index: 0;
+    }
+    
+    .mute{
+        display: inline-block;
+        z-index: 1;
+        margin-left: 585px;
+        margin-top: 260px;
+        color: #fff;
+        position: absolute;
+        font-size: 50px;
+        text-shadow: 3px 3px 8px black;;
+    }
+    
+    .desc{
+        display: inline-block;
+        z-index: 1;
+        margin-top: 330px;
+        color: #fff;
+        position: absolute;
+        font-size: 15px;
+        text-shadow: 3px 3px 8px black;;
+        margin-left: 555px;
+    }
+    
+    .desc2{
+        display: inline-block;
+        z-index: 1;
+        margin-top: 355px;
+        color: #fff;
+        position: absolute;
+        font-size: 15px;
+        text-shadow: 3px 3px 8px black;;
+        margin-left: 559px;
+    }
+}
+@media screen and (min-width: 1281px) and (max-width: 1440px) {
+    .background{
+        background-color:  #f3f5f7;
+        height: 100vh;
+    }
+    
+    .painting{
+        display: inline-block;
+        position: relative;
+        margin-top: 180px;
+        margin-left: 350px;
+        z-index: 0;
+    }
+    
+    .mute{
+        display: inline-block;
+        z-index: 1;
+        margin-left: 545px;
+        margin-top: 260px;
+        color: #fff;
+        position: absolute;
+        font-size: 50px;
+        text-shadow: 3px 3px 8px black;;
+    }
+    
+    .desc{
+        display: inline-block;
+        z-index: 1;
+        margin-top: 330px;
+        color: #fff;
+        position: absolute;
+        font-size: 15px;
+        text-shadow: 3px 3px 8px black;;
+        margin-left: 525px;
+    }
+    
+    .desc2{
+        display: inline-block;
+        z-index: 1;
+        margin-top: 355px;
+        color: #fff;
+        position: absolute;
+        font-size: 15px;
+        text-shadow: 3px 3px 8px black;;
+        margin-left: 525px;
+    }
+}
+@media screen and (min-width: 1024px) and (max-width: 1281px) {
+    .background{
+        background-color:  #f3f5f7;
+        height: 100vh;
+    }
+    
+    .painting{
+        display: inline-block;
+        position: relative;
+        margin-top: 180px;
+        margin-left: 270px;
+        z-index: 0;
+    }
+    
+    .mute{
+        display: inline-block;
+        z-index: 1;
+        margin-left: 465px;
+        margin-top: 260px;
+        color: #fff;
+        position: absolute;
+        font-size: 50px;
+        text-shadow: 3px 3px 8px black;;
+    }
+    
+    .desc{
+        display: inline-block;
+        z-index: 1;
+        margin-top: 330px;
+        color: #fff;
+        position: absolute;
+        font-size: 15px;
+        text-shadow: 3px 3px 8px black;;
+        margin-left: 445px;
+    }
+    
+    .desc2{
+        display: inline-block;
+        z-index: 1;
+        margin-top: 355px;
+        color: #fff;
+        position: absolute;
+        font-size: 15px;
+        text-shadow: 3px 3px 8px black;;
+        margin-left: 445px;
+    }
+}
+@media screen and (min-width: 900px) and (max-width: 1024px) {
+    .background{
+        background-color:  #f3f5f7;
+        height: 100vh;
+    }
+    
+    .painting{
+        display: inline-block;
+        position: relative;
+        margin-top: 180px;
+        margin-left: 200px;
+        z-index: 0;
+    }
+    
+    .mute{
+        display: inline-block;
+        z-index: 1;
+        margin-left: 395px;
+        margin-top: 260px;
+        color: #fff;
+        position: absolute;
+        font-size: 50px;
+        text-shadow: 3px 3px 8px black;;
+    }
+    
+    .desc{
+        display: inline-block;
+        z-index: 1;
+        margin-top: 330px;
+        color: #fff;
+        position: absolute;
+        font-size: 15px;
+        text-shadow: 3px 3px 8px black;;
+        margin-left: 375px;
+    }
+    
+    .desc2{
+        display: inline-block;
+        z-index: 1;
+        margin-top: 355px;
+        color: #fff;
+        position: absolute;
+        font-size: 15px;
+        text-shadow: 3px 3px 8px black;;
+        margin-left: 375px;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 900px) {
+    .background{
+        background-color:  #f3f5f7;
+        height: 100vh;
+    }
+    
+    .painting{
+        display: inline-block;
+        position: relative;
+        margin-top: 180px;
+        margin-left: 100px;
+        z-index: 0;
+    }
+    
+    .mute{
+        display: inline-block;
+        z-index: 1;
+        margin-left: 295px;
+        margin-top: 260px;
+        color: #fff;
+        position: absolute;
+        font-size: 50px;
+        text-shadow: 3px 3px 8px black;;
+    }
+    
+    .desc{
+        display: inline-block;
+        z-index: 1;
+        margin-top: 330px;
+        color: #fff;
+        position: absolute;
+        font-size: 15px;
+        text-shadow: 3px 3px 8px black;;
+        margin-left: 275px;
+    }
+    
+    .desc2{
+        display: inline-block;
+        z-index: 1;
+        margin-top: 355px;
+        color: #fff;
+        position: absolute;
+        font-size: 15px;
+        text-shadow: 3px 3px 8px black;;
+        margin-left: 275px;
+    }
+}
+
+
+@media screen and (min-width: 600px) and (max-width: 768px) {
+    .background{
+        background-color:  #f3f5f7;
+        height: 100vh;
+    }
+    
+    .painting{
+        height: 40vh;
+        display: inline-block;
+        position: relative;
+        margin-top: 180px;
+        margin-left: 160px;
+        z-index: 0;
+    }
+    
+    .mute{
+        display: inline-block;
+        z-index: 1;
+        margin-left: 307px;
+        margin-top: 240px;
+        color: #fff;
+        position: absolute;
+        font-size: 40px;
+        text-shadow: 3px 3px 8px black;;
+    }
+    
+    .desc{
+        display: inline-block;
+        z-index: 1;
+        margin-top: 300px;
+        color: #fff;
+        position: absolute;
+        font-size: 12px;
+        text-shadow: 3px 3px 8px black;;
+        margin-left: 285px;
+    }
+    
+    .desc2{
+        display: inline-block;
+        z-index: 1;
+        margin-top: 325px;
+        color: #fff;
+        position: absolute;
+        font-size: 12px;
+        text-shadow: 3px 3px 8px black;;
+        margin-left: 285px;
+    }
+}
+
+@media screen and (min-width: 530px) and (max-width: 600px) {
+    .background{
+        background-color:  #f3f5f7;
+        height: 100vh;
+    }
+    
+    .painting{
+        height: 40vh;
+        display: inline-block;
+        position: relative;
+        margin-top: 180px;
+        margin-left: 60px;
+        z-index: 0;
+    }
+    
+    .mute{
+        display: inline-block;
+        z-index: 1;
+        margin-left: 207px;
+        margin-top: 240px;
+        color: #fff;
+        position: absolute;
+        font-size: 40px;
+        text-shadow: 3px 3px 8px black;;
+    }
+    
+    .desc{
+        display: inline-block;
+        z-index: 1;
+        margin-top: 300px;
+        color: #fff;
+        position: absolute;
+        font-size: 12px;
+        text-shadow: 3px 3px 8px black;;
+        margin-left: 185px;
+    }
+    
+    .desc2{
+        display: inline-block;
+        z-index: 1;
+        margin-top: 325px;
+        color: #fff;
+        position: absolute;
+        font-size: 12px;
+        text-shadow: 3px 3px 8px black;;
+        margin-left: 185px;
+    }
+}
+@media screen and (min-width: 0px) and (max-width: 530px) {
+    .background{
+        background-color:  #f3f5f7;
+        height: 100vh;
+    }
+    
+    .painting{
+        height: 40vh;
+        display: inline-block;
+        position: relative;
+        margin-top: 180px;
+        margin-left: 20px;
+        z-index: 0;
+    }
+    
+    .mute{
+        display: inline-block;
+        z-index: 1;
+        margin-left: 160px;
+        margin-top: 240px;
+        color: #fff;
+        position: absolute;
+        font-size: 40px;
+        text-shadow: 3px 3px 8px black;;
+    }
+    
+    .desc{
+        display: inline-block;
+        z-index: 1;
+        margin-top: 300px;
+        color: #fff;
+        position: absolute;
+        font-size: 12px;
+        text-shadow: 3px 3px 8px black;;
+        margin-left: 145px;
+    }
+    
+    .desc2{
+        display: inline-block;
+        z-index: 1;
+        margin-top: 325px;
+        color: #fff;
+        position: absolute;
+        font-size: 12px;
+        text-shadow: 3px 3px 8px black;;
+        margin-left: 145px;
+    }
+}

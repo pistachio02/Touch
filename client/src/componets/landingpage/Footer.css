@@ -1,0 +1,582 @@
+@media screen and (min-width: 1440px){
+    .background7{
+        height: 25vh;
+        background-color: #eaeaee;
+    }
+    
+    .text-area{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1.5fr;
+    }
+    
+    .logo-text-wrap{
+        display: inline-block;
+    }
+    
+    .footer-logo{
+        position: absolute;
+        height: 50px;
+        margin-top: 60px;
+        margin-left: 150px;
+    }
+    
+    .contact-wrap{
+        margin-left: 700px;
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    .contact{
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+    
+    .a-contact{
+        text-decoration: none;
+        font-size: 12px;
+        color: #68788C;
+    }
+    
+    .about-us-wrap {
+       margin-left: 100px;
+       margin-top: 30px;
+       text-align: center;
+    }
+    
+    .about-us{
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+    
+    .a-about-us{
+        text-decoration: none;
+        font-size: 12px;
+        color: #68788C;
+    }
+    
+    .team-member-wrap{
+        margin-left: 100px;
+        margin-top: 30px;
+        
+    }
+    
+    .team-member{
+        margin-bottom: 10px;
+    }
+    
+    .a-team-front{
+        text-decoration: none;
+        font-size: 12px;
+        color: #68788C;
+    }
+}
+
+@media screen and (min-width: 1281px) and (max-width: 1440px){
+    .background7{
+        height: 25vh;
+        background-color: #eaeaee;
+    }
+    
+    .text-area{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1.5fr;
+    }
+    
+    .logo-text-wrap{
+        display: inline-block;
+    }
+    
+    .footer-logo{
+        position: absolute;
+        height: 50px;
+        margin-top: 60px;
+        margin-left: 150px;
+    }
+    
+    .contact-wrap{
+        margin-left: 700px;
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    .contact{
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+    
+    .a-contact{
+        text-decoration: none;
+        font-size: 12px;
+        color: #68788C;
+    }
+    
+    .about-us-wrap {
+       margin-left: 100px;
+       margin-top: 30px;
+       text-align: center;
+    }
+    
+    .about-us{
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+    
+    .a-about-us{
+        text-decoration: none;
+        font-size: 12px;
+        color: #68788C;
+    }
+    
+    .team-member-wrap{
+        margin-left: 100px;
+        margin-top: 30px;
+        
+    }
+    
+    .team-member{
+        margin-bottom: 10px;
+    }
+    
+    .a-team-front{
+        text-decoration: none;
+        font-size: 12px;
+        color: #68788C;
+    }
+}
+@media screen and (min-width: 1024px) and (max-width: 1281px){
+    .background7{
+        height: 25vh;
+        background-color: #eaeaee;
+    }
+    
+    .text-area{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1.5fr;
+    }
+    
+    .logo-text-wrap{
+        display: inline-block;
+    }
+    
+    .footer-logo{
+        position: absolute;
+        height: 50px;
+        margin-top: 60px;
+        margin-left: 150px;
+    }
+    
+    .contact-wrap{
+        margin-left: 500px;
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    .contact{
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+    
+    .a-contact{
+        text-decoration: none;
+        font-size: 12px;
+        color: #68788C;
+    }
+    
+    .about-us-wrap {
+       margin-left: 100px;
+       margin-top: 30px;
+       text-align: center;
+    }
+    
+    .about-us{
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+    
+    .a-about-us{
+        text-decoration: none;
+        font-size: 12px;
+        color: #68788C;
+    }
+    
+    .team-member-wrap{
+        margin-left: 100px;
+        margin-top: 30px;
+        
+    }
+    
+    .team-member{
+        margin-bottom: 10px;
+    }
+    
+    .a-team-front{
+        text-decoration: none;
+        font-size: 12px;
+        color: #68788C;
+    }
+}
+@media screen and (min-width: 900px) and (max-width: 1024px) {
+    .background7{
+        height: 25vh;
+        background-color: #eaeaee;
+    }
+    
+    .text-area{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1.5fr;
+    }
+    
+    .logo-text-wrap{
+        display: inline-block;
+    }
+    
+    .footer-logo{
+        position: absolute;
+        height: 50px;
+        margin-top: 60px;
+        margin-left: 100px;
+    }
+    
+    .contact-wrap{
+        margin-left: 400px;
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    .contact{
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+    
+    .a-contact{
+        text-decoration: none;
+        font-size: 12px;
+        color: #68788C;
+    }
+    
+    .about-us-wrap {
+       margin-left: 100px;
+       margin-top: 30px;
+       text-align: center;
+    }
+    
+    .about-us{
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+    
+    .a-about-us{
+        text-decoration: none;
+        font-size: 12px;
+        color: #68788C;
+    }
+    
+    .team-member-wrap{
+        margin-left: 100px;
+        margin-top: 30px;
+        
+    }
+    
+    .team-member{
+        margin-bottom: 10px;
+    }
+    
+    .a-team-front{
+        text-decoration: none;
+        font-size: 12px;
+        color: #68788C;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 900px){
+    .background7{
+        height: 25vh;
+        background-color: #eaeaee;
+    }
+    
+    .text-area{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1.5fr;
+    }
+    
+    .logo-text-wrap{
+        display: inline-block;
+    }
+    
+    .footer-logo{
+        position: absolute;
+        height: 50px;
+        margin-top: 60px;
+        margin-left: 100px;
+    }
+    
+    .contact-wrap{
+        margin-left: 300px;
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    .contact{
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+    
+    .a-contact{
+        text-decoration: none;
+        font-size: 12px;
+        color: #68788C;
+    }
+    
+    .about-us-wrap {
+       margin-left: 100px;
+       margin-top: 30px;
+       text-align: center;
+    }
+    
+    .about-us{
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+    
+    .a-about-us{
+        text-decoration: none;
+        font-size: 12px;
+        color: #68788C;
+    }
+    
+    .team-member-wrap{
+        margin-left: 100px;
+        margin-top: 30px;
+        
+    }
+    
+    .team-member{
+        margin-bottom: 10px;
+    }
+    
+    .a-team-front{
+        text-decoration: none;
+        font-size: 12px;
+        color: #68788C;
+    }
+}
+@media screen and (min-width: 425px) and (max-width: 768px){
+    .background7{
+        height: 25vh;
+        background-color: #eaeaee;
+    }
+    
+    .text-area{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1.5fr;
+    }
+    
+    .logo-text-wrap{
+        display: inline-block;
+    }
+    
+    .footer-logo{
+        position: absolute;
+        height: 50px;
+        margin-top: 60px;
+        margin-left: 100px;
+        display: none;
+    }
+    
+    .contact-wrap{
+        margin-left: 40px;
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    .contact{
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    
+    .a-contact{
+        text-decoration: none;
+        font-size: 12px;
+        color: #68788C;
+    }
+    
+    .about-us-wrap {
+       margin-left: 50px;
+       margin-top: 30px;
+       text-align: center;
+    }
+    
+    .about-us{
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    
+    .a-about-us{
+        text-decoration: none;
+        font-size: 10px;
+        color: #68788C;
+    }
+    
+    .team-member-wrap{
+        margin-left: 50px;
+        margin-top: 30px;
+        
+    }
+    
+    .team-member{
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    
+    .a-team-front{
+        text-decoration: none;
+        font-size: 10px;
+        color: #68788C;
+    }
+}
+@media screen and (min-width: 319px) and (max-width: 425px) {
+    .background7{
+        height: 25vh;
+        background-color: #eaeaee;
+    }
+    
+    .text-area{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1.5fr;
+    }
+    
+    .logo-text-wrap{
+        display: inline-block;
+    }
+    
+    .footer-logo{
+        position: absolute;
+        height: 50px;
+        margin-top: 60px;
+        margin-left: 100px;
+        display: none;
+    }
+    
+    .contact-wrap{
+        margin-left: 20px;
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    .contact{
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    
+    .a-contact{
+        text-decoration: none;
+        font-size: 12px;
+        color: #68788C;
+    }
+    
+    .about-us-wrap {
+       margin-left: 20px;
+       margin-top: 30px;
+       text-align: center;
+    }
+    
+    .about-us{
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    
+    .a-about-us{
+        text-decoration: none;
+        font-size: 10px;
+        color: #68788C;
+    }
+    
+    .team-member-wrap{
+        margin-left: 20px;
+        margin-top: 30px;
+        
+    }
+    
+    .team-member{
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    
+    .a-team-front{
+        text-decoration: none;
+        font-size: 10px;
+        color: #68788C;
+    }
+}
+
+
+
+/* .background7{
+    height: 25vh;
+    background-color: #eaeaee;
+}
+
+.text-area{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1.5fr;
+}
+
+.logo-text-wrap{
+    display: inline-block;
+}
+
+.footer-logo{
+    position: absolute;
+    height: 50px;
+    margin-top: 60px;
+    margin-left: 150px;
+}
+
+.contact-wrap{
+    margin-left: 700px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.contact{
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.a-contact{
+    text-decoration: none;
+    font-size: 12px;
+    color: #68788C;
+}
+
+.about-us-wrap {
+   margin-left: 100px;
+   margin-top: 30px;
+   text-align: center;
+}
+
+.about-us{
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.a-about-us{
+    text-decoration: none;
+    font-size: 12px;
+    color: #68788C;
+}
+
+.team-member-wrap{
+    margin-left: 100px;
+    margin-top: 30px;
+    
+}
+
+.team-member{
+    margin-bottom: 10px;
+}
+
+.a-team-front{
+    text-decoration: none;
+    font-size: 12px;
+    color: #68788C;
+} */
