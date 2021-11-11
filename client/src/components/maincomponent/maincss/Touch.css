@@ -1,0 +1,96 @@
+.touch_background{
+ 
+    background-color:rgba(255,255,255,.8);
+    border-radius:.25em;
+    box-shadow:0 0 .25em rgba(0,0,0,.25);
+    box-sizing:border-box;
+    left:50%;
+    padding:10vmin;
+    position:fixed;
+    text-align:center;
+    top:50%;
+    transform:translate(-50%, -50%);
+    
+    z-index: 3;
+    font-size: 3rem;
+}
+
+
+@media  screen and (max-width: 730px) {
+    .touch_background {
+        top: 30%;
+    }
+}
+
+.touch_icon {
+    display:block;
+    display: flex;
+    cursor: pointer;
+   
+   
+}
+
+
+.touch_text{
+    margin: 0px;
+    color: rgba(220, 55, 5, 0.612);
+    font-weight: 400;
+}
+
+
+.fa-play-circle{ 
+    color: rgba(173, 173, 224, 0.612);
+    margin: 15px;
+}
+
+
+.fa-stop-circle{ 
+    color: rgba(173, 173, 224, 0.612);
+    margin: 15px;
+}
+
+.fa-expand-arrows-alt{ 
+    color: rgba(173, 173, 224, 0.612);
+    margin: 15px;
+}
+
+.fa-heart{
+    color: rgba(173, 173, 224, 0.612);
+    margin: 15px;
+}
+
+
+
+
+
+
+
+
+.fa-play-circle:hover{ 
+    color: rgba(215, 24, 11, 0.612);
+}
+
+
+.fa-stop-circle:hover{ 
+    color: rgba(215, 24, 11, 0.612);
+}
+
+.fa-expand-arrows-alt:hover{ 
+    color: rgba(215, 24, 11, 0.612);
+}
+
+.fa-heart:hover{
+    color: rgba(215, 24, 11, 0.612);
+}
+
+
+
+.thumbnail{
+    animation:slide 3s ease-in-out infinite alternate;
+    background-image: linear-gradient(-60deg, rgba(0, 153, 255, 0.557) 50%, rgba(155, 20, 182, 0.557) 50%);
+    left:-100%;
+    right:-100%;
+    top:0;
+    z-index:-1;
+    width: 100%;
+  }
