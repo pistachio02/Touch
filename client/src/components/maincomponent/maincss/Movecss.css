@@ -1,0 +1,165 @@
+.top{
+  display:scroll;
+  position:fixed;
+  bottom:10px;
+  right:10px;
+  z-index: 99;
+}
+
+
+
+
+
+.test-back{
+  background: linear-gradient(-45deg, #2c3e50, #3498db, #f1f2b5, #135058);
+  background-size: 400% 400%;
+  animation: gradient 10s ease infinite;
+  min-height: 100vh;
+}
+
+@keyframes gradient {
+  0% {
+      background-position: 0% 50%;
+  }
+  50% {
+      background-position: 100% 50%;
+  }
+  100% {
+      background-position: 0% 50%;
+  }
+}
+
+
+
+.test {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imgtext{
+    /* z-index: 1; */
+    opacity: 0;
+    transition: all ease .9s;
+}
+
+
+.main__btn{
+    color:rgb(0, 0, 0);
+    border:none;
+    border-radius: 5px;
+    padding: 0 1rem;
+    position:relative;
+    height:30px;
+    font-size:1em;
+    margin: 12px;
+    cursor:pointer;
+    transition:800ms ease all;
+    outline:none;
+  }
+  .main__btn:hover{
+    background:rgb(0, 0, 0);
+    color:#ffffff;
+  }
+  .main__btn:before,.main__btn:after{
+    content:'';
+    position:absolute;
+    top:0;
+    right:0;
+    height:2px;
+    width:0;
+    background: #f90101;
+    transition:400ms ease all;
+  }
+  .main__btn:after{
+    right:inherit;
+    top:inherit;
+    left:0;
+    bottom:0;
+  }
+  .main__btn:hover:before,.main__btn:hover:after{
+    width:100%;
+    transition:800ms ease all;
+  }
+
+
+
+
+
+
+
+.audio{
+    /* z-index: 2; */
+    cursor: pointer;
+    padding: 20px;
+    opacity: 0;;
+    transition: all ease .9s;
+    vertical-align:auto;
+}
+
+.project{
+    position: relative;
+    width: 460px;
+    height: 260px;
+    /* background-color: red; */
+    margin:  8px;
+    
+    text-align: center;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.project__img{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    /* object-fit:cover; */
+}
+
+.project__description{
+ position: absolute;
+ background-color: rgb(0, 0, 0, 0);
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ width: 100%;
+ height: 100%;
+ top:0;
+ left: 0;
+ /* opacity: 0; */
+ transition: all ease .9s;
+ cursor: pointer;
+ border-radius: 15px;
+}
+
+
+
+.project:hover .project__description {
+    /* opacity: .5; */
+    background-color: rgba( 0, 0, 0, 0.5 );
+}
+
+
+.project:hover .imgtext{
+    opacity: 1;
+}
+
+.project:hover .audio{
+    opacity: 1;
+}
+
+.top{
+  display: inline-block;
+  position: fixed;
+  z-index: 4;
+  bottom: 2rem;
+  right: 2rem;
+  font-size: 30px;
+  cursor: pointer;
+  color: white;
+}
