@@ -1,0 +1,40 @@
+.header-background{
+    position: sticky;
+    background-color:  #fff;
+}
+
+.logo{
+    cursor: pointer;
+    height: 40px;
+}
+
+.header-flex-box{
+    padding-right: 20px;
+    cursor: pointer;
+    color: #1d1c43;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    font-size: 1rem;
+}
+.header-wrap {
+    position: sticky;
+   top: 0;
+   z-index: 2;
+   background-color:  #fff;
+   height: 60px;
+}
+.grow{
+    flex-grow: 10
+}
+
+.settings{
+    cursor: pointer;
+}
