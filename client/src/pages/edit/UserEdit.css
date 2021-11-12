@@ -1,101 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@300&display=swap');
+
 .user_background{
-    background: #536976;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #292E49, #536976);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #292E49, #536976); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    
+    background: #fff;  /* fallback for old browsers */
+    height: 100vh;
     padding:30px;
 }
-.user_container{
-    background-color: rgb(250, 248, 248);
-   
 
-    
-
-    padding:50px;
-    width: 80%;
-    max-width: 100%;
-    margin: auto;
-    box-sizing: border-box;
-   
+.head{
+    margin-top: 150px;
+    margin-left: 100px;
 }
 
-.user__text{
-    padding: 5px;
-    font-size: 1.2rem;
-    margin-top: 25px;
+.mypage-text{
+    margin-top: 100px;
+    margin-left: 40px;
+    font-family: 'Nanum Gothic', sans-serif;
 }
 
-.form-input {
-    padding: 10px;
-    font-size: 20px;
-    border: 1px solid black;
-    border-radius: 5px;
-    width: 100%;
-    box-sizing: border-box;
-    
+.change-delete{
+    display: grid;
+    margin-top: 75px;
+    grid-template-columns: 0.5fr 0.5fr;
+    margin-left: 140px;
+    width: 200px;
+    font-size: 10px;
+    font-weight: 300;
+    cursor: pointer;
 }
 
-
-
-.user_update_btn{
-    width:100px; 
-    height:40px; 
-    line-height:40px; 
-    border:1px #ecf3f7 solid;
-    margin-top:35px; 
-    margin-right:25px; 
-    border-radius: 5px;
-    background-color:#dee5ed; 
-    /* text-align:center; */
-     cursor: pointer; 
-    color:#333; transition:all 0.9s, color 0.3; 
-}
-
-.user_update_btn:hover{
-    color:#fff;
-      box-shadow: 200px 0 0 0 rgba(1, 10, 23, 0.25) inset, 
-      -200px 0 0 0 rgba(1, 1, 12, 0.25) inset;
-}
-
-
-
-.user_form_center{
+.nickname-change-message{
     text-align: center;
-    box-sizing: content-box;
+    margin-top: 50px;
+    font-family: 'Noto Serif KR', serif;
 }
 
-.user_delete_btn{
-    width:100px; 
-    height:40px; 
-    line-height:40px; 
-    border:1px #ecf3f7 solid;
-    margin-top:25px; 
-    margin-right:25px; 
+.nickname-pencil{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 120px;
+}
+
+.mypage-nickname{
+    font-weight: 300;
+    font-family: 'Noto Serif KR', serif;
+}
+
+.pencil{
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.mypage-email{
+    width: 260px;
+    font-family: 'Noto Serif KR', serif;
+}
+
+.nickname-okay{
+    font-size: 1px;
+color: #ffffff;
+background-color: #799AE0;
+border-radius: 5px;
+border: 0px;
+height: 20px;
+padding: 1px;
+margin: 4px;
+cursor: pointer;
+width: 50px;
+outline: none;
+font-weight: 700;
+margin-left:70px;
+
+}
+.nickname-cancle{
+    font-size: 10px;
+    color: #ffffff;
+    background-color: #FFD6C7;
     border-radius: 5px;
-    background-color:#dee5ed; 
-    /* text-align:center; */
-     cursor: pointer; 
-    color:#333; transition:all 0.9s, color 0.3; 
+    border: 0px;
+    height: 20px;
+    padding: 1px;
+    margin: 4px;
+    cursor: pointer;
+    width: 50px;
+    outline: none;
+    font-weight: 700;
+    margin-left:70px;
 }
 
-.user_delete_btn:hover{
-    color:#fff;
-      box-shadow: 200px 0 0 0 rgba(198, 18, 5, 0.25) inset, 
-      -200px 0 0 0 rgba(255, 3, 3, 0.803) inset;
+.password-cancle{
+    font-size: 10px;
+    color: #ffffff;
+    background-color: #FFD6C7;
+    border-radius: 5px;
+    border: 0px;
+    height: 20px;
+    padding: 1px;
+    margin: 4px;
+    cursor: pointer;
+    width: 50px;
+    outline: none;
+    font-weight: 700;
+    margin-left:70px;
 }
 
-
-
-
-
-@media  screen and (max-width: 730px) {
-    .form-input {
-        width: 60%;
-    }
+.password-okay{
+    font-size: 1px;
+color: #ffffff;
+background-color: #799AE0;
+border-radius: 5px;
+border: 0px;
+height: 20px;
+padding: 1px;
+margin: 4px;
+cursor: pointer;
+width: 50px;
+outline: none;
+font-weight: 700;
+margin-left:70px;
 }
 
-
-.mypage_validation{
-    color: red;
+.password-button-wrap{
     margin-top: 30px;
+    margin-left: 230px;
+}
+
+.mypage-button-wrap{
+    margin-top: 10px;
+    margin-left: 240px;
+}
+
+/* &:hover {
+    background-color: #a99fee;
+   } */
+
+.err-msg{
+    text-align: center;
+    font-size: 10px;
+    font-weight: 500;
+    color: rgb(243, 73, 73);
+    margin-top: 20px;
 }
