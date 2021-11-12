@@ -3,7 +3,7 @@
 @media screen and (min-width: 1440px) {
     .background3{
         background-color: #eeeef0;
-        height: 100vh;
+        height: 70vh;
     }
     .img-text-wrap{
         display: inline-block;
@@ -46,7 +46,7 @@
 @media screen and (min-width: 1281px) and (max-width: 1440px) {
     .background3{
         background-color: #eeeef0;
-        height: 100vh;
+        height: 70vh;
     }
     .img-text-wrap{
         display: inline-block;
@@ -89,7 +89,7 @@
 @media screen and (min-width: 1024px) and (max-width: 1281px){
     .background3{
         background-color: #eeeef0;
-        height: 100vh;
+        height: 70vh;
     }
     .img-text-wrap{
         display: inline-block;
@@ -132,7 +132,7 @@
 @media screen and (min-width: 900px) and (max-width: 1024px){
     .background3{
         background-color: #eeeef0;
-        height: 140vh;
+        height: 90vh;
     }
     .img-text-wrap{
         display: grid;
@@ -180,7 +180,7 @@
 @media screen and (min-width: 759px) and (max-width: 900px) {
     .background3{
         background-color: #eeeef0;
-        height: 140vh;
+        height: 90vh;
     }
     .img-text-wrap{
         display: grid;
@@ -230,7 +230,7 @@
 @media screen and (min-width: 618px) and (max-width: 759px) {
     .background3{
         background-color: #eeeef0;
-        height: 140vh;
+        height: 90vh;
     }
     .img-text-wrap{
         display: grid;
@@ -281,7 +281,7 @@
 @media screen and (min-width: 425px) and (max-width: 618px) {
     .background3{
         background-color: #eeeef0;
-        height: 70vh;
+        height: 50vh;
     }
     .img-text-wrap{
         display: grid;

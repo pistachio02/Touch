@@ -2,7 +2,7 @@
 @media screen and (min-width: 1440px) {
     .background{
         background-color:  #f3f5f7;
-        height: 100vh;
+        height: 80vh;
     }
     
     .painting{
@@ -49,7 +49,7 @@
 @media screen and (min-width: 1281px) and (max-width: 1440px) {
     .background{
         background-color:  #f3f5f7;
-        height: 100vh;
+        height: 80vh;
     }
     
     .painting{
@@ -96,7 +96,7 @@
 @media screen and (min-width: 1024px) and (max-width: 1281px) {
     .background{
         background-color:  #f3f5f7;
-        height: 100vh;
+        height: 80vh;
     }
     
     .painting{
@@ -143,7 +143,7 @@
 @media screen and (min-width: 900px) and (max-width: 1024px) {
     .background{
         background-color:  #f3f5f7;
-        height: 100vh;
+        height: 80vh;
     }
     
     .painting{
@@ -190,7 +190,7 @@
 @media screen and (min-width: 768px) and (max-width: 900px) {
     .background{
         background-color:  #f3f5f7;
-        height: 100vh;
+        height: 80vh;
     }
     
     .painting{
@@ -239,7 +239,7 @@
 @media screen and (min-width: 600px) and (max-width: 768px) {
     .background{
         background-color:  #f3f5f7;
-        height: 100vh;
+        height: 80vh;
     }
     
     .painting{
@@ -254,8 +254,8 @@
     .mute{
         display: inline-block;
         z-index: 1;
-        margin-left: 307px;
-        margin-top: 240px;
+        margin-left: 347px;
+        margin-top: 260px;
         color: #fff;
         position: absolute;
         font-size: 40px;
@@ -265,30 +265,30 @@
     .desc{
         display: inline-block;
         z-index: 1;
-        margin-top: 300px;
+        margin-top: 320px;
         color: #fff;
         position: absolute;
         font-size: 12px;
         text-shadow: 3px 3px 8px black;;
-        margin-left: 285px;
+        margin-left: 335px;
     }
     
     .desc2{
         display: inline-block;
         z-index: 1;
-        margin-top: 325px;
+        margin-top: 345px;
         color: #fff;
         position: absolute;
         font-size: 12px;
         text-shadow: 3px 3px 8px black;;
-        margin-left: 285px;
+        margin-left: 335px;
     }
 }
 
 @media screen and (min-width: 530px) and (max-width: 600px) {
     .background{
         background-color:  #f3f5f7;
-        height: 100vh;
+        height: 80vh;
     }
     
     .painting{
@@ -303,8 +303,8 @@
     .mute{
         display: inline-block;
         z-index: 1;
-        margin-left: 207px;
-        margin-top: 240px;
+        margin-left: 247px;
+        margin-top: 270px;
         color: #fff;
         position: absolute;
         font-size: 40px;
@@ -314,29 +314,29 @@
     .desc{
         display: inline-block;
         z-index: 1;
-        margin-top: 300px;
+        margin-top: 320px;
         color: #fff;
         position: absolute;
         font-size: 12px;
         text-shadow: 3px 3px 8px black;;
-        margin-left: 185px;
+        margin-left: 235px;
     }
     
     .desc2{
         display: inline-block;
         z-index: 1;
-        margin-top: 325px;
+        margin-top: 345px;
         color: #fff;
         position: absolute;
         font-size: 12px;
         text-shadow: 3px 3px 8px black;;
-        margin-left: 185px;
+        margin-left: 245px;
     }
 }
 @media screen and (min-width: 0px) and (max-width: 530px) {
     .background{
         background-color:  #f3f5f7;
-        height: 100vh;
+        height: 80vh;
     }
     
     .painting{
@@ -351,8 +351,8 @@
     .mute{
         display: inline-block;
         z-index: 1;
-        margin-left: 160px;
-        margin-top: 240px;
+        margin-left: 200px;
+        margin-top: 270px;
         color: #fff;
         position: absolute;
         font-size: 40px;
@@ -362,22 +362,22 @@
     .desc{
         display: inline-block;
         z-index: 1;
-        margin-top: 300px;
+        margin-top: 320px;
         color: #fff;
         position: absolute;
         font-size: 12px;
         text-shadow: 3px 3px 8px black;;
-        margin-left: 145px;
+        margin-left: 185px;
     }
     
     .desc2{
         display: inline-block;
         z-index: 1;
-        margin-top: 325px;
+        margin-top: 340px;
         color: #fff;
         position: absolute;
         font-size: 12px;
         text-shadow: 3px 3px 8px black;;
-        margin-left: 145px;
+        margin-left: 185px;
     }
 }
