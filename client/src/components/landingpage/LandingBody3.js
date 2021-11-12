@@ -1,12 +1,13 @@
 import React from 'react'
 import './LandingBody3.css'
+import healing from '../../image/heal.gif'
 
 
 function LandingBody3() {
     return (
         <div className = 'background3'>
             <div className = 'img-text-wrap'>
-                <img src = '' alt  = '' className = 'img'/>
+                <img src = {healing} alt  = '' className = 'img'/>
                 <div className = 'text-wrap'>
                     <div className = 'start'>#START TOUCH</div>
                     <div className = 'text-h1'>원하는 이미지와 소리를
