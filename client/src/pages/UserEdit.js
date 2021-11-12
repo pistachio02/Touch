@@ -1,8 +1,7 @@
 import React from 'react';
 import Header from '../components/header/Header';
 import UserUpdate from './edit/UserUpdate';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
-import MypageSidebar from '../components/maincomponent/sidebar/MypageSidebar';
+import { Route, Switch } from 'react-router-dom';
 
 function UserEdit({isLogin, userinfo, handleLogout}) {
     return (
