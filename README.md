@@ -104,28 +104,38 @@
   <summary> 메인 페이지 (Healing) </summary>
 
   <details>
-  <summary> 메인페이지 이미지 리스트 </summary>
-  <img width="700" src="https://user-images.githubusercontent.com/78680884/141642416-f67664ed-f08d-4b2a-94da-3632ec6720f5.gif"/>
+  <summary> 이미지 리스트 </summary>
+  <img width="700" src="https://user-images.githubusercontent.com/75570030/141651049-5c10e5af-3ba7-4bb1-9f21-f37fa0ab20ff.gif"/>
+  </details>
+  
+   <details>
+  <summary> 음악 감상 </summary>
+  <img width="700" src="https://user-images.githubusercontent.com/75570030/141652241-1f63c1be-daab-4dcc-b975-beb8d9a1a4e6.gif"/>
   </details>
   
   <details>
   <summary> 이미지 검색 기능 </summary>
-   <img width="700" src="https://user-images.githubusercontent.com/78680884/141642416-f67664ed-f08d-4b2a-94da-3632ec6720f5.gif"/>
+   <img width="700" src="https://user-images.githubusercontent.com/75570030/141651448-b505d769-3178-41a3-815c-54561f8fd6c9.gif"/>
+  </details>
+   
+   <details>
+  <summary> 비회원 터치 페이지 제한 </summary>
+   <img width="700" src="https://user-images.githubusercontent.com/75570030/141652281-4024b924-a7ce-435b-b3fb-baa198f734e4.gif"/>
   </details>
   
   <details>
-  <summary> Touch 버튼 페이지 이동 </summary>
-  <img width="700" src="https://user-images.githubusercontent.com/78680884/141642416-f67664ed-f08d-4b2a-94da-3632ec6720f5.gif"/>
+  <summary> Touch 버튼 페이지 이동(로그인 후) </summary>
+  <img width="700" src="https://user-images.githubusercontent.com/75570030/141651495-c3085c3f-63d2-4009-bd02-554b99dce7b1.gif"/>
   </details>
   
   <details>
   <summary> 전체 화면 보기(음원 재생 및 정지) </summary>
-  <img width="700" src="https://user-images.githubusercontent.com/78680884/141642416-f67664ed-f08d-4b2a-94da-3632ec6720f5.gif"/>
+  <img width="700" src="https://user-images.githubusercontent.com/75570030/141651551-4659e8be-7728-4afe-bb43-421637089360.gif"/>
   </details>
   
   <details>
   <summary> 찜하기 </summary>
-  <img width="700" src="https://user-images.githubusercontent.com/78680884/141642416-f67664ed-f08d-4b2a-94da-3632ec6720f5.gif"/>
+  <img width="700" src="https://user-images.githubusercontent.com/75570030/141651569-122f51db-e54d-4136-9d56-64beb09f1cf7.gif"/>
   </details>
  
   
