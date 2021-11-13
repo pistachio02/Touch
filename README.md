@@ -91,6 +91,11 @@
       <img width="700" src="https://user-images.githubusercontent.com/78680884/141642444-0d556632-92a9-4b45-8636-c9ff6455f25e.gif"/>
   </details>
   
+  <details>
+  <summary> 회원탈퇴 </summary>
+      <img width="700" src="https://user-images.githubusercontent.com/78680884/141642416-f67664ed-f08d-4b2a-94da-3632ec6720f5.gif"/>
+  </details>
+  
 </details>
 
 ---
