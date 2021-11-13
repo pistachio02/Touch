@@ -18,9 +18,9 @@
 ##  ☁️ 배포링크 
 
 
-## 🔨 Front-Tech
+## 🔨 Front-Tech &  🔧 Back-Tech
 
-## 🔧 Back-Tech
+
 
 
 
