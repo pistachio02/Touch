@@ -101,21 +101,21 @@
 ---
 
 <details>
-  <summary> Healing </summary>
+  <summary> 메인 페이지 (Healing) </summary>
 
   <details>
   <summary> 이미지 리스트 </summary>
- 
+  <img width="700" src="https://user-images.githubusercontent.com/78680884/141642416-f67664ed-f08d-4b2a-94da-3632ec6720f5.gif"/>
   </details>
   
   <details>
   <summary> 이미지 Touch </summary>
-   
+   <img width="700" src="https://user-images.githubusercontent.com/78680884/141642416-f67664ed-f08d-4b2a-94da-3632ec6720f5.gif"/>
   </details>
   
   <details>
   <summary> Touch 전체보기로 감상 </summary>
-  
+  <img width="700" src="https://user-images.githubusercontent.com/78680884/141642416-f67664ed-f08d-4b2a-94da-3632ec6720f5.gif"/>
 
   </details>
  
