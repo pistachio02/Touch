@@ -9,7 +9,7 @@
 ## 🙋‍♂️💁‍♂️ Team Infor 🙆‍♂️🙋‍♂️
 | 이름(깃헙링크) | Position & Role|
 | ------- | ----- |
-| [이장희(팀장)](https://github.com/leejanghe) | 💻 Back-end|
+| [이장희(팀장)](https://github.com/leejanghe) | 💻 Front-end|
 | [이건우](https://github.com/Geonwoo-Lee) | 💻 Front-end|
 | [김동우](https://github.com/off-dngw) | 💻 Front-end|
 | [정종화](https://github.com/pistachio02) | 💻 Back-end|
@@ -104,19 +104,28 @@
   <summary> 메인 페이지 (Healing) </summary>
 
   <details>
-  <summary> 이미지 리스트 </summary>
+  <summary> 메인페이지 이미지 리스트 </summary>
   <img width="700" src="https://user-images.githubusercontent.com/78680884/141642416-f67664ed-f08d-4b2a-94da-3632ec6720f5.gif"/>
   </details>
   
   <details>
-  <summary> 이미지 Touch </summary>
+  <summary> 이미지 검색 기능 </summary>
    <img width="700" src="https://user-images.githubusercontent.com/78680884/141642416-f67664ed-f08d-4b2a-94da-3632ec6720f5.gif"/>
   </details>
   
   <details>
-  <summary> Touch 전체보기로 감상 </summary>
+  <summary> Touch 버튼 페이지 이동 </summary>
   <img width="700" src="https://user-images.githubusercontent.com/78680884/141642416-f67664ed-f08d-4b2a-94da-3632ec6720f5.gif"/>
-
+  </details>
+  
+  <details>
+  <summary> 전체 화면 보기(음원 재생 및 정지) </summary>
+  <img width="700" src="https://user-images.githubusercontent.com/78680884/141642416-f67664ed-f08d-4b2a-94da-3632ec6720f5.gif"/>
+  </details>
+  
+  <details>
+  <summary> 찜하기 </summary>
+  <img width="700" src="https://user-images.githubusercontent.com/78680884/141642416-f67664ed-f08d-4b2a-94da-3632ec6720f5.gif"/>
   </details>
  
   
