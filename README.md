@@ -1,1 +1,155 @@
-# Touch
+## 🌕  Touch 🌕
+
+![tologo2](https://user-images.githubusercontent.com/78680884/141614154-0acfff27-aed4-4ab7-954c-168dfc51de94.png)
+
+### 잠시 이곳에서 쉬어가세요 Touch.
+
+
+
+## 🙋‍♂️💁‍♂️ Team Infor 🙆‍♂️🙋‍♂️
+| 이름(깃헙링크) | Position & Role|
+| ------- | ----- |
+| [이장희(팀장)](https://github.com/leejanghe) | 💻 Back-end|
+| [이건우](https://github.com/Geonwoo-Lee) | 💻 Front-end|
+| [김동우](https://github.com/off-dngw) | 💻 Front-end|
+| [정종화](https://github.com/pistachio02) | 💻 Back-end|
+
+
+##  ☁️ 배포링크 
+
+
+## 🔨 Front-Tech
+
+## 🔧 Back-Tech
+
+
+
+
+## 🏛 Architecture
+
+### Client flow chart
+
+
+
+### DB Schema
+
+
+## 🌝 기능별 시연 gif
+
+
+<details>
+  <summary> 회원가입, 로그인, 로그아웃</summary>
+  
+  <details>
+  <summary> 회원가입 </summary>
+    <img width="700" src="https://user-images.githubusercontent.com/78680884/141642442-eb6f1e0b-2599-4157-babc-feafbf842aa7.gif"/>
+  </details>
+  
+ 
+  
+  <details>
+  <summary> 로그인 </summary>
+    <img width="700" src="https://user-images.githubusercontent.com/78680884/141642440-d1df71e0-2061-4a3f-91ba-81f119353d3e.gif"/>
+  </details>
+  
+   <details>
+  <summary> 카카오 로그인 </summary>
+     <img width="700" src="https://user-images.githubusercontent.com/78680884/141642432-cb3fc633-d9c4-4e83-b7e7-d10770265551.gif"/>
+  </details>
+  
+   <details>
+  <summary> 구글 로그인 </summary>
+     <img width="700" src="https://user-images.githubusercontent.com/78680884/141642434-bd1eabc6-6910-4194-a490-5082bbe13e0d.gif"/>
+  </details>
+  
+  <details>
+  <summary> 로그아웃 </summary>
+    <img width="700" src="https://user-images.githubusercontent.com/78680884/141642436-e8e8b86a-7b81-40aa-b840-aa8b10917479.gif"/>
+  </details>
+  
+</details>
+
+---
+
+<details>
+  <summary> 랜딩 및 마이페이지 </summary>
+  <details>
+  <summary>랜딩페이지</summary>
+    <img width="700" src="https://user-images.githubusercontent.com/78680884/141642436-e8e8b86a-7b81-40aa-b840-aa8b10917479.gif"/>
+  </details>
+  <details>
+  <summary> 마이페이지 </summary>
+    <img width="700" src="https://user-images.githubusercontent.com/78680884/141642421-f0b5a567-752c-4513-8342-05b10b9fbd77.gif"/>
+  </details>
+   <details>
+  <summary> 마이페이지 내가 쓴 글 </summary>
+     <img width="700" src="https://user-images.githubusercontent.com/78680884/141642443-29d207f6-0e2e-4efa-8c78-705263460f2c.gif"/>
+  </details>
+  
+  <details>
+  <summary> 찜목록 </summary>
+      <img width="700" src="https://user-images.githubusercontent.com/78680884/141642444-0d556632-92a9-4b45-8636-c9ff6455f25e.gif"/>
+  </details>
+  
+</details>
+
+---
+
+<details>
+  <summary> Healing </summary>
+
+  <details>
+  <summary> 이미지 리스트 </summary>
+ 
+  </details>
+  
+  <details>
+  <summary> 이미지 Touch </summary>
+   
+  </details>
+  
+  <details>
+  <summary> Touch 전체보기로 감상 </summary>
+  
+
+  </details>
+ 
+  
+</details>
+
+---
+
+
+</details>
+
+<details>
+ <summary>Agora Page</summary>
+  <details>
+   <summary>전체 글보기</summary>
+  </details>
+  
+  <details>
+   <summary>글쓰기, 수정 및 삭제</summary>
+    
+  </details>
+  
+  <details>
+   <summary>보고 싶은 게시글 보기 </summary>
+    <img width="700" src="https://user-images.githubusercontent.com/79203932/136372647-bad6c81d-c8d4-4387-8020-e6c31df6f34c.gif"/>
+  </details>
+  
+  <details>
+   <summary>댓글 달기 및 삭제 </summary>
+    <img width="700" src="https://user-images.githubusercontent.com/79203932/136375338-d7811c00-9a92-4585-a3a1-90d75a337877.gif"/>
+  </details>
+  
+</details>
+
+---
+
+## wiki 
+https://github.com/codestates/Touch/wiki
+
+## Team Notion
+https://www.notion.so/10-Touch-Touch-61663b8512e14e11a20b0b0114b6978a
+
