@@ -26,6 +26,7 @@ function Search({search}) {
      <div className="search_container">
          <div >
             <h1 className="search_text">주제를 검색해보세요!</h1>
+            <div className="subtitle">추천 검색어 : 풍경, 수면, 아트, 자연, 우주, 카페, 크리스마스, 동물</div>
          </div>
          <div className="search_input_center">
          <input id="search_input" type="text" value={text} onChange={handleChange} placeholder="&#61442;" onKeyPress={handleKeyPress} />
