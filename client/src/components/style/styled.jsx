@@ -70,43 +70,43 @@ export const Indicator = styled.span`
     animation-delay: 0s;
   }
   @media screen and (min-width: 1440px) {
-    margin-top: 100px;
+    margin-top: 80px;
     margin-left: 120px;
   }
   @media screen and (min-width: 1281px) and (max-width: 1440px) {
-   margin-top: 100px;
+   margin-top: 80px;
    margin-left: 140px;
   }
 
   @media screen and (min-width: 1024px) and (max-width: 1281px){
-    margin-top: 100px;
+    margin-top: 80px;
    margin-left: 100px;
   }
 
   @media screen and (min-width: 900px) and (max-width: 1024px){
-    margin-top: 100px;
+    margin-top: 80px;
    margin-left: 120px;
   }
 
   @media screen and (min-width: 768px) and (max-width: 900px) {
-    margin-top: 100px;
+    margin-top: 80px;
    margin-left: 120px;
   }
 
   @media screen and (min-width: 600px) and (max-width: 768px){
-    margin-top: 100px;
+    margin-top: 80px;
    margin-left: 120px;
   }
   @media screen and (min-width: 505px) and (max-width: 600px){
-    margin-top: 100px;
+    margin-top: 80px;
    margin-left: 120px;
   }
   @media screen and (min-width: 425px) and (max-width: 505px){
-    margin-top: 100px;
+    margin-top: 80px;
    margin-left: 120px;
   }
   @media screen and (min-width: 319px) and (max-width: 425px){
-    margin-top: 100px;
+    margin-top: 80px;
    margin-left: 120px;
   }
 `;
